@@ -1,4 +1,4 @@
-# Inventory-Performance-Dashboard-using-Tableau
+# Sales-Analysis-Dashboard-using-Tableau
 
 Problem Statement : 
 
@@ -7,25 +7,25 @@ responsible for understanding the sales numbers and to make them
 grow. For this, he wants to gauge and execute suitable sales techniques, 
 to scale up the sales numbers for various products, retailed by various 
 vendors.
-The country heads wants to analyze the stock, price, number of items 
-sold and quality rating for various categories to find the sales trends. He 
+The country heads want to analyze the stock, price, number of items 
+sold, and quality rating for various categories to find the sales trends. He 
 would also want to evaluate the inventory status for various categories, 
 subcategories, and items. 
 With such meticulous exploration of vendor sales and inventory stocks, 
-the country head can formulate schemes to improvise sales in low profit 
+the country head can formulate schemes to improve sales in low-profit 
 periods and confirm that the inventory has enough stock to meet the 
 customer requirements.
 
-Note: Use the Sales Analysis excel sheet as the data source to create the 
+Note: Use the Sales Analysis Excel sheet as the data source to create the 
 dashboards.
 
 Reporting Scenario
 Create the following dashboards:
 
 Dashboard 1: Inventory Performance Dashboard 
-This dashboard should display the inventory data which shows category 
+This dashboard should display the inventory data which shows the category 
 and year from highest to lowest order in terms of vendor item price, 
-comparison of the End On Hand and On Order units for the selected 
+comparison of the End Hand and Order units for the selected 
 category and subcategory, and monthly End On Hand and On Order 
 units for each year. The category and subcategory selections should be 
 linked.
