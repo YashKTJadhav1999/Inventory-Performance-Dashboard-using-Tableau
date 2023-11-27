@@ -1,6 +1,7 @@
 # Inventory-Performance-Dashboard-using-Tableau
 
-Problem Statement
+Problem Statement : 
+
 Roger Ferro, the Country head of a multi-national retail company is 
 responsible for understanding the sales numbers and to make them 
 grow. For this, he wants to gauge and execute suitable sales techniques, 
