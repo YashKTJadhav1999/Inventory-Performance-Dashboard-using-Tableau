@@ -35,6 +35,11 @@ The following questions should be answered:
 
 2. What is the On Order value for beverages in June 2011?
 
+Answers:
+1. Value of EOH for beverages in June 2011 – 146274
+
+2. Value of On Order for beverages in June 2011– 60710
+
 Dashboard 2: Retailer Analysis Dashboard 
 This dashboard should display the number of items for each category. 
 The view should allow the users to see the top n and bottom n items by 
@@ -45,3 +50,9 @@ The following questions should be answered:
 1. Which are the vendors dealing with the Produce category?
 
 2. Which is the top item in the Produce category?
+
+Answers:
+1. Vendors dealing with the Produce category- Earthworks, highland, 
+and Indiewealth Corp.
+
+2. Top item in the Produce Category- Del Monte No sugar added.
